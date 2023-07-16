@@ -6,8 +6,8 @@
       return $data;
   }
 
-  $servername = "sql308.epizy.com";
-  $username = "epiz_33908874";
-  $password = "Z13hXQhcanH";
-  $database = "epiz_33908874_revisioncards";
+  $servername = "<SERVER>";
+  $username = "<USERNAME>";
+  $password = "<PASSWORD>";
+  $database = "<DATABASE>";
 ?>
